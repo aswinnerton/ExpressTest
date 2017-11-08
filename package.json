@@ -1,0 +1,25 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswinnerton/ExpressTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aswinnerton/ExpressTest/issues"
+  },
+  "homepage": "https://github.com/aswinnerton/ExpressTest#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "open": "0.0.5"
+  }
+}
